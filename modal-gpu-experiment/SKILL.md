@@ -13,7 +13,7 @@ description: >
 
 Run training jobs and experiments on Modal GPUs — from single-GPU fine-tuning to multi-node distributed training with RDMA. Write a proper Modal training app: bake your code into the image, mount volumes for data and checkpoints, add secrets, and set retries for fault tolerance.
 
-For general Modal platform usage (app structure, function types, CLI, deployment), see the `modal` skill.
+For general Modal platform usage (app structure, function types, CLI, deployment), see the `modal-basic-skills` skill.
 
 ## Quick Reference
 

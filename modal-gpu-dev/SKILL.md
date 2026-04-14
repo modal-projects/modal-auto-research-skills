@@ -13,7 +13,7 @@ description: >
 
 Interactive GPU containers on Modal with SSH access. Use for debugging, profiling, prototyping, or any work where you need hands-on access to a GPU environment. Containers come pre-installed with PyTorch, Transformers, SGLang, and common ML tools. Your workspace is persisted to a Modal Volume and synced every 30 seconds.
 
-For general Modal platform usage (app structure, function types, CLI, deployment), see the `modal` skill.
+For general Modal platform usage (app structure, function types, CLI, deployment), see the `modal-basic-skills` skill.
 
 ## Quick Reference
 

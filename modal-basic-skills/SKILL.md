@@ -1,19 +1,17 @@
 ---
-name: modal
+name: modal-basic-skills
 description: >
-  This skill provides guidance for building and deploying applications on the
-  Modal cloud platform. Use this skill whenever the user mentions Modal or has
-  Python code that imports the `modal` SDK. This skill should also trigger when
-  the user needs to run Python code with horizontal scalability (e.g. batch
-  jobs), needs access to GPUs (e.g. AI/ML workloads including training and
-  inference) or needs to execute processes in a sandboxed environment.
+  Foundational Modal platform knowledge for auto-research agents. Covers app
+  structure, function types, CLI usage, deployment patterns, and development
+  workflow. This skill auto-triggers when code imports `modal` and provides
+  the base layer that the GPU-specific research skills build on.
 ---
 
-# Overview
+# Modal Basics for Auto-Research
 
-This skill provides high-level guidance for working with the Modal cloud platform.
+Foundational Modal platform knowledge for research agents. Covers how Modal apps work, the CLI, and development patterns. The GPU-specific skills (`modal-gpu-dev`, `modal-gpu-experiment`, `sub-agents`) build on these basics.
 
-Modal is a platform for AI / ML workloads. It offers highly-scalable serverless compute (including GPUs) with minimal configuration.
+Modal is a serverless platform for AI/ML workloads — scalable compute (including GPUs) with minimal configuration, pay only for what you use.
 
 # Documentation
 
