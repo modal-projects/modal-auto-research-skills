@@ -1,1 +1,0 @@
-# modal-auto-research-skills
