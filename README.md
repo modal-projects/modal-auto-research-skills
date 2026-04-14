@@ -2,7 +2,7 @@
 
 Give your research agents elastic GPUs. These skills teach agents how to use [Modal](https://modal.com) to provision and release GPUs on demand, from spinning up dozens of cheap single-GPU runs for exploration, to scaling to parallel multi-node GPU clusters for training. No cluster management, no idle bills, no wasted compute.
 
-We used these skills to run [OpenAI's Parameter Golf challenge](https://openai.com/index/parameter-golf/) overnight: 113 experiments across 238 GPU-hours, finishing 5x faster than a single workstation while using a fraction of the resources of a dedicated cluster. Read the full writeup on the [Modal blog](https://modal.com/blog).
+We used these skills to run [OpenAI's Parameter Golf challenge](https://openai.com/index/parameter-golf/) overnight: 113 experiments across 238 GPU-hours, finishing 5x faster than a single workstation while using a fraction of the resources of a dedicated cluster. Read the full writeup on the [Modal blog](https://modal.com/blog/autoscaling-autoresearch).
 
 ## Skills
 
